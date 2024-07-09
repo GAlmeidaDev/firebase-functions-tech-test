@@ -1,6 +1,5 @@
 const admin = require('firebase-admin');
 
-// Verifique se o Firebase Admin já foi inicializado
 if (!admin.apps.length) {
   admin.initializeApp();
 }

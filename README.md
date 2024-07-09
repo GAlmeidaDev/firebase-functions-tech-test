@@ -1,7 +1,7 @@
 # Projeto Firebase Functions (Tech test)
 
 Este projeto utiliza o Firebase Functions juntamente com o Firestore Store para criar e gerenciar registros em uma coleção específica.
-Utilizando arquitetura hexagonal
+Utilizando arquitetura hexagonal para facilitar na implementação de testes e para desacoplar as camadas do sistema, reduzindo dependências entre si, além de ficar mais bem organizado futuramente dando melhor escalabilidade do projeto 
 
 # Configuração
 
